@@ -1,0 +1,131 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Carter",
+        "subject": "Introduction to Psychology",
+        "stars": 4,
+        "review": "Dr. Carter is incredibly knowledgeable and passionate about psychology. Her lectures are engaging and she encourages student participation."
+      },
+      {
+        "professor": "Prof. John Smith",
+        "subject": "Calculus I",
+        "stars": 3,
+        "review": "Prof. Smith is a good instructor but tends to move through material quickly. Office hours are helpful for clarification."
+      },
+      {
+        "professor": "Dr. Maria Gonzalez",
+        "subject": "Modern American History",
+        "stars": 4,
+        "review": "Dr. Gonzalez brings history to life with her vivid storytelling. She is approachable and provides insightful feedback on assignments."
+      },
+      {
+        "professor": "Prof. Alex Johnson",
+        "subject": "Organic Chemistry",
+        "stars": 2,
+        "review": "Prof. Johnson is knowledgeable but the lectures are very fast-paced and hard to follow. The course is challenging without sufficient support."
+      },
+      {
+        "professor": "Dr. Linda Moore",
+        "subject": "Microeconomics",
+        "stars": 5,
+        "review": "Dr. Moore makes complex economic theories easy to understand. Her enthusiasm and clear explanations make her one of the best professors I've had."
+      },
+      {
+        "professor": "Prof. David Lee",
+        "subject": "World Literature",
+        "stars": 4,
+        "review": "Prof. Lee is engaging and passionate about literature. He provides meaningful discussions and encourages critical thinking."
+      },
+      {
+        "professor": "Dr. Sarah Patel",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Dr. Patel is knowledgeable but her teaching style can be a bit dry. The subject is tough but manageable with her guidance."
+      },
+      {
+        "professor": "Prof. Brian Turner",
+        "subject": "Intro to Philosophy",
+        "stars": 4,
+        "review": "Prof. Turner is thought-provoking and encourages deep discussions. He makes philosophy accessible and enjoyable for everyone."
+      },
+      {
+        "professor": "Dr. Rachel Adams",
+        "subject": "Biology 101",
+        "stars": 5,
+        "review": "Dr. Adams is exceptional! Her lectures are engaging, and she is very approachable. She makes learning biology exciting."
+      },
+      {
+        "professor": "Prof. Michael Brown",
+        "subject": "Programming Fundamentals",
+        "stars": 3,
+        "review": "Prof. Brown is knowledgeable but sometimes his explanations are unclear. The course is challenging but rewarding."
+      },
+      {
+        "professor": "Dr. Jessica White",
+        "subject": "Environmental Science",
+        "stars": 4,
+        "review": "Dr. White is passionate about environmental issues and provides a lot of real-world examples. Her enthusiasm is contagious."
+      },
+      {
+        "professor": "Prof. Daniel Robinson",
+        "subject": "Macroeconomics",
+        "stars": 2,
+        "review": "Prof. Robinson's lectures are difficult to follow, and he provides minimal feedback on assignments. The course could use improvement."
+      },
+      {
+        "professor": "Dr. Natalie King",
+        "subject": "Creative Writing",
+        "stars": 5,
+        "review": "Dr. King is an inspiring teacher who provides constructive feedback and encourages creativity. Her workshops are particularly helpful."
+      },
+      {
+        "professor": "Prof. Kevin Harris",
+        "subject": "Chemistry II",
+        "stars": 3,
+        "review": "Prof. Harris is knowledgeable but his lectures are very fast-paced. The course requires extra study time to keep up."
+      },
+      {
+        "professor": "Dr. Anna Scott",
+        "subject": "Social Psychology",
+        "stars": 4,
+        "review": "Dr. Scott is engaging and uses a lot of real-life examples to explain concepts. Her classes are interactive and informative."
+      },
+      {
+        "professor": "Prof. Steven Clark",
+        "subject": "Human Anatomy",
+        "stars": 5,
+        "review": "Prof. Clark is fantastic! He makes complex anatomical concepts easy to understand and his labs are well-organized."
+      },
+      {
+        "professor": "Dr. Megan Evans",
+        "subject": "Music Theory",
+        "stars": 4,
+        "review": "Dr. Evans is a talented musician and an excellent teacher. Her classes are well-structured and she provides helpful feedback."
+      },
+      {
+        "professor": "Prof. Andrew Hall",
+        "subject": "Calculus II",
+        "stars": 2,
+        "review": "Prof. Hall's teaching style is not very effective. The course content is challenging and his explanations are often unclear."
+      },
+      {
+        "professor": "Dr. Laura Baker",
+        "subject": "Genetics",
+        "stars": 4,
+        "review": "Dr. Baker is enthusiastic about genetics and her classes are well-organized. She provides a lot of additional resources for students."
+      },
+      {
+        "professor": "Prof. James Turner",
+        "subject": "Political Science",
+        "stars": 3,
+        "review": "Prof. Turner is knowledgeable but his lectures can be monotonous. The subject is interesting but the teaching could be more engaging."
+      },
+      {
+        "professor": "Dr. Olivia Martinez",
+        "subject": "Advanced Calculus",
+        "stars": 5,
+        "review": "Dr. Martinez is an excellent professor who explains complex calculus concepts with clarity. Her passion for teaching is evident."
+      }
+    ]
+  }
+  
